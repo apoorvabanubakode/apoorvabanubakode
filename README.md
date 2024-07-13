@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Apoorva 👋. 
+- 🔭 I'm a Data Scientist working @ Intuit, and recently my focus has been expediting GenAI experiences by building custom Langchain Tools and Agentic workflows. 
+Before the shift towards GenAI, I spent 2 years working in the field of traditional ML, explored the areas of uncertainity quantification among other data sciency stuff!
+- 🌱 I’m currently practicing my juggling skills at catching up with latest research, and upskilling my software development skillset.
+- 📖 I'm currently reading: Thinking fast and Slow, The Messy Middle. Always open for some interesting book recs!
+- 📫 If you'd like to connect: please email me at apoorva.banubakode@gmail.com, [Linkedin](www.linkedin.com/in/apoorvabanubakode) :)
+- ⚡ Somethings that I love: a cup of perfect masala chai, poetry that touches the soul, painting, and how can i miss -- puzzles!
+- 😄 Pronouns: She/her
+ 
 
 <!--
 **apoorvabanubakode/apoorvabanubakode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
