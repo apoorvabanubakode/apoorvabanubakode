@@ -1,6 +1,6 @@
 ## Hi there, I'm Apoorva 👋. 
 - 🔭 I'm a Data Enthusiast and recently my focus has been exploring GenAI, Langchains and diving into Agentic Workflows.
-Before the shift towards GenAI, I spent ~4 years analyzing data, visualizing it, and eventually building ml solutions in various domains.
+Before the shift towards GenAI, I spent years analyzing data, visualizing it, and eventually building ml solutions in various domains.
 - 🌱 I’m currently practicing my juggling skills at catching up with latest research, and upskilling my software development skillset.
 - 📖 I'm currently reading: Thinking fast and Slow, The Messy Middle. Always open for some interesting book recs!
 - 📫 If you'd like to connect: here's my [Linkedin](www.linkedin.com/in/apoorvabanubakode)
