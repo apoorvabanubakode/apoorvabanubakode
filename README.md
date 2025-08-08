@@ -4,8 +4,6 @@ Before the shift towards GenAI, I spent years analyzing data, visualizing it, an
 - 🌱 I’m currently practicing my juggling skills at catching up with latest research, and upskilling my software development skillset.
 - 📖 I'm currently reading: Thinking fast and Slow, The Messy Middle. Always open for some interesting book recs!
 - 📫 If you'd like to connect: here's my [Linkedin](www.linkedin.com/in/apoorvabanubakode)
-- ⚡ Somethings that I love: painting, puzzles, poetry and ofc coffee/chai (cant choose)
-- 😄 Pronouns: She/her
  
 
 <!--
